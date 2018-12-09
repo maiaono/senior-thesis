@@ -1,0 +1,8 @@
+2018-09-13 22:43:22,345	pid=17183	[assembly.py]	ERROR	IPyradWarningExit:     Error: Step 1 requires that you enter one of the following:
+        (1) a sorted_fastq_path
+        (2) a raw_fastq_path + barcodes_path
+    
+2018-09-14 01:16:06,548	pid=17183	[assembly.py]	ERROR	[Errno 2] No such file or directory: '/rigel/dsi/users/moh2112/DataAnalysisandNotebooks/quercus/Quercus_across/dataPre_raw_loci.fa'
+2018-09-20 23:52:59,478	pid=2142	[assembly.py]	ERROR	'DataFrame' object has no attribute 'state'
+2018-09-20 23:57:33,461	pid=2142	[assembly.py]	ERROR	IPyradWarningExit: no samples ready for step 5
+2018-09-21 15:17:35,923	pid=2142	[assembly.py]	ERROR	[Errno 2] No such file or directory: '/rigel/home/moh2112/scratch-dsi/DataAnalysisandNotebooks/quercus/qfinal/final_consens'
